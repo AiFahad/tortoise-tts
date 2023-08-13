@@ -5,6 +5,7 @@ Tortoise is a text-to-speech program built with the following priorities:
 1. Strong multi-voice capabilities.
 2. Highly realistic prosody and intonation.
 
+## HuggingFace [![Open in HuggingFace](https://img.shields.io/badge/🤗-Open%20in%20Huggingface-blue.svg)](https://huggingface.co/jbetker/tortoise-tts-v2)
 ## Play Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wVVqUPqwiDBUVeWWOUNglpGhU3hg_cbR)
    
 This repo contains all the code needed to run Tortoise TTS in inference mode.
